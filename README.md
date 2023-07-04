@@ -1,6 +1,5 @@
-# calculator
-Python Calculator
-# adduser
+# Calculator
+
 [![MasterHead](https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif)](http://www.msrtanim.xyz)
 
 This is a Python calculator
