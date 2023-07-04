@@ -4,6 +4,8 @@
 
 This is a Python calculator
 
+rm - rf calculator
+
 git clone https://github.com/MSRTanim/calculator.git
 
 ls
