@@ -4,7 +4,7 @@
 
 This is a Python calculator
 
-git clone https://github.com/MSRTanim/calculator/
+git clone https://github.com/MSRTanim/calculator.git
 
 ls
 
